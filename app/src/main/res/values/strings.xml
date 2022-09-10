@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DailyJournal</string>
+    <string name="text_entry">What do you want to remember about today?</string>
+    <string name="mood_track">Mood Tracker</string>
+</resources>
